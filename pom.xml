@@ -8,7 +8,7 @@
     <relativePath/>
   </parent>
   <groupId>io.goobi.workflow.plugin</groupId>
-  <artifactId>plugin-rest-intranda</artifactId>
+  <artifactId>plugin-rest-stanford</artifactId>
   <version>${revision}</version>
   <properties>
     <revision>dev-SNAPSHOT</revision>
