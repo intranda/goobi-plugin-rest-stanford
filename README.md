@@ -1,4 +1,4 @@
-# Goobi workflow Plugin: goobi-plugin-rest-intranda
+# Goobi workflow Plugin: goobi-plugin-rest-stanford
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://goobi.io/logo_goobi_workflow_dark.png">
